@@ -1,6 +1,6 @@
 def rescue_princess_peach(phrase)
   status = "rescued"
-  puts status
+  puts phrase
 end
 
 def catch_phrase
