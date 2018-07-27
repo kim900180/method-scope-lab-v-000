@@ -1,5 +1,5 @@
 def rescue_princess_peach(phrase)
-  # status = phrase
+  status = phrase
   puts "#{phrase}"
 end
 
