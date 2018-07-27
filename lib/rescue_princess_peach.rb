@@ -1,6 +1,6 @@
 def rescue_princess_peach(phrase)
-  # status = "rescued"
-  puts phrase
+  status = phrase
+  puts status
 end
 
 
