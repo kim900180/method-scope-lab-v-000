@@ -1,5 +1,5 @@
 def rescue_princess_peach(phrase)
-  status = "rescued"
+  # status = "rescued"
   puts phrase
 end
 
